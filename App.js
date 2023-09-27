@@ -12,7 +12,7 @@ export default function App() {
           Now we are gonna builde something awesome! 
         </Text>
         <Text style={styles.text}>
-          Yay! I'm ready for you
+          Yay! I'm ready for you. Trying to create a Pull request now.
         </Text>
       </View>
       <StatusBar style="auto" />
