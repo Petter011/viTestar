@@ -9,7 +9,10 @@ export default function App() {
       </View>
         <View style={styles.textView}>
         <Text style={styles.text}>
-          Now we are gonna builde something awesome!
+          Now we are gonna builde something awesome! 
+        </Text>
+        <Text style={styles.text}>
+          Yay! I'm ready for you
         </Text>
       </View>
       <StatusBar style="auto" />
