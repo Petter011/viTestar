@@ -14,6 +14,9 @@ export default function App() {
         <Text style={styles.text}>
           Yay! I'm ready for you
         </Text>
+        <Text style={styles.text2}>
+          What do you want to do?
+        </Text>
       </View>
       <StatusBar style="auto" />
     </SafeAreaView>
@@ -42,5 +45,12 @@ justifyContent: 'center'
     fontSize: 30,
     color: "blue",
     padding: 20
+  },
+  text2: {
+    padding: 20,
+    color: "green",
+    fontSize: 30,
+    alignContent: 'center',
+    
   },
 });
